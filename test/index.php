@@ -8,6 +8,7 @@ $result = $conn->query($sql);
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Library Management System</title>
 </head>
 <body>

@@ -11,8 +11,10 @@ if (isset($_GET['search'])) {
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Search Results</title>
-    <a href="index.php">Back</a>
+    <a href="index.php" style=" background-color: #4CAF50;
+     text-decoration: none; color: #dddddd;margin-top: 50px;padding: 10px;">Back</a>
 </head>
 <body>
 <h1>Search Results</h1>
