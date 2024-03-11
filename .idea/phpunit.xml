@@ -5,6 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/slot4/tests/Unit" />
         <option value="$PROJECT_DIR$/slot4/tests/Feature" />
+        <option value="$PROJECT_DIR$/slot6/tests/Unit" />
+        <option value="$PROJECT_DIR$/slot6/tests/Feature" />
+        <option value="$PROJECT_DIR$/exam/tests/Unit" />
+        <option value="$PROJECT_DIR$/exam/tests/Feature" />
       </list>
     </option>
   </component>
